@@ -1,0 +1,5 @@
+#!/bin/sh
+
+/home/cicindela/bin/batch.pl --track=2
+
+sleep 5
